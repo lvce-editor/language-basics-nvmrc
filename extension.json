@@ -1,0 +1,12 @@
+{
+  "id": "builtin.language-basics-nvmrc",
+  "name": "Language Basics nvmrc",
+  "description": "Provides syntax highlighting and bracket matching in nvmrc files.",
+  "languages": [
+    {
+      "id": "nvmrc",
+      "extensions": [".nvmrc"],
+      "tokenize": "src/tokenizeNvmrc.js"
+    }
+  ]
+}
