@@ -5,8 +5,12 @@
   "languages": [
     {
       "id": "nvmrc",
-      "fileNames":[".nvmrc", ".node-version"],
+      "fileNames": [
+        ".nvmrc",
+        ".node-version"
+      ],
       "tokenize": "src/tokenizeNvmrc.js"
     }
-  ]
+  ],
+  "repository": "https://github.com/lvce-editor/language-basics-nvmrc"
 }
