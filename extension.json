@@ -5,10 +5,7 @@
   "languages": [
     {
       "id": "nvmrc",
-      "fileNames": [
-        ".nvmrc",
-        ".node-version"
-      ],
+      "fileNames": [".nvmrc", ".node-version"],
       "tokenize": "src/tokenizeNvmrc.js"
     }
   ],
